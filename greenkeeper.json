@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "assets/vendor/fontawesome-free/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
